@@ -1,4 +1,4 @@
-# Kumpulan Project Open Source di Channel Youtube Fans Electronics
+# Kumpulan Project Open Source Youtube Fans Electronics
 
 ## Note!
 Program ini dibuat hanya untuk sekedar untuk pembelajaran. Jika ingin memproduksi dan menjualnya saya sarankan,, untuk menyisihkan pendapatan anda untuk diamalkan sebagian agar lebih barokah, hehe.
