@@ -1,10 +1,9 @@
-# Kumpulan Project Open Source Youtube Fans Electronics
+# Jam Digital P10 Sederhana
 
 ## Note!
-Program ini dibuat hanya untuk sekedar untuk pembelajaran. Jika ingin memproduksi dan menjualnya saya sarankan, untuk menyisihkan pendapatan anda untuk diamalkan sebagian agar lebih barokah, hehe.
+Program ini dibuat hanya untuk sekedar untuk pembelajaran. Jika ingin memproduksi dan menjualnya saya sarankan,, untuk menyisihkan pendapatan anda untuk diamalkan sebagian agar lebih barokah, hehe.
 
 >"Dengan membaca Deskripsi diatas, dianggap anda telah menyetujui aturan mendownload program ini"
-
 
 ---
 ## Author

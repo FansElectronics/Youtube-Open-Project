@@ -1,7 +1,7 @@
 # Project PHP Bootstrap IoT ESP8266
 
 ## Note!
-Program ini dibuat hanya untuk sekedar untuk pembelajaran. Jika ingin memproduksi dan menjualnya saya sarankan,, untuk menyisihkan pendapatan anda untuk diamalkan sebagian agar lebih barokah, hehe.
+Program ini dibuat hanya untuk sekedar untuk pembelajaran. Jika ingin memproduksi dan menjualnya saya sarankan, untuk menyisihkan pendapatan anda untuk diamalkan sebagian agar lebih barokah, hehe.
 
 >"Dengan membaca Deskripsi diatas, dianggap anda telah menyetujui aturan mendownload program ini"
 
@@ -13,6 +13,7 @@ Program ini dibuat hanya untuk sekedar untuk pembelajaran. Jika ingin memproduks
 - Website     : www.fanselectronics.com
 - Email       : info@fanselectronics.com
 - GitHub      : github.com/FansElectronics
+- Libraries   : https://github.com/FansElectronics/FansElectronics-Arduino-Libraries
 
 ---
 ## Donasi
