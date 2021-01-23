@@ -1,9 +1,15 @@
-# Jam Digital P10 Sederhana
+# DIY Button Box Arduino Leonardo / Pro
 
 ## Note!
 Program ini dibuat hanya untuk sekedar untuk pembelajaran. Jika ingin memproduksi dan menjualnya saya sarankan,, untuk menyisihkan pendapatan anda untuk diamalkan sebagian agar lebih barokah, hehe.
 
 >"Dengan membaca Deskripsi diatas, dianggap anda telah menyetujui aturan mendownload program ini"
+
+---
+## Library / Video Pendukung
+**Kebutuhan library bisa download disini atau Repo library saya dan tonton video tutorialnya:**
+- https://www.youtube.com/watch?v=Z7Sc4MJ8RPM
+- https://github.com/MHeironimus/ArduinoJoystickLibrary
 
 ---
 ## Author
@@ -26,6 +32,7 @@ Semua jenis donasi ditunjukan untuk amal dan pendidikan, bagi kalian yang ingin 
 ---
 ## Thanks To
 - Allah subhanahu wa ta'ala
+- amstudio [https://www.youtube.com/channel/UCQS1ZB3BVSrBo3tCs7PyfxQ]
 - Arduino.cc
 - Library Author
 - Contributor
