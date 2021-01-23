@@ -5,6 +5,7 @@ Program ini dibuat hanya untuk sekedar untuk pembelajaran. Jika ingin memproduks
 
 >"Dengan membaca Deskripsi diatas, dianggap anda telah menyetujui aturan mendownload program ini"
 
+
 ---
 ## Author
 **Catatan & Program ditulis oleh:**
@@ -13,7 +14,7 @@ Program ini dibuat hanya untuk sekedar untuk pembelajaran. Jika ingin memproduks
 - Website     : www.fanselectronics.com
 - Email       : info@fanselectronics.com
 - GitHub      : github.com/FansElectronics
-
+- Libraries   : https://github.com/FansElectronics/FansElectronics-Arduino-Libraries
 ---
 ## Donasi
 Semua jenis donasi ditunjukan untuk amal dan pendidikan, bagi kalian yang ingin berdonasi kepada kami silahkan hubungi kami melalui kontak berikut:
