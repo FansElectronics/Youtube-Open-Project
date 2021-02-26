@@ -30,6 +30,6 @@ Semua jenis donasi ditunjukan untuk amal dan pendidikan, bagi kalian yang ingin 
 - Arduino.cc
 - Library Author
 - Contributor
-- etc..
+- etc.
 
 
